@@ -4,10 +4,11 @@
 /node_modules
 
 # testing
+/tests/dataDrivenTests.js
 /coverage
 nightwatchProps.js
 /tests_output
-
+/pageObjects/pageData.js
 # production
 /build
 
